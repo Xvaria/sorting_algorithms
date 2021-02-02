@@ -11,7 +11,7 @@ void insertion_sort_list(listint_t **list)
 	listint_t *tlist, *olist;
 
 	if (!*list)
-		return
+		return;
 	tlist = *list;
 	olist = *list;
 	while (olist)

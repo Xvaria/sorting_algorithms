@@ -5,8 +5,8 @@
  * using the Quick sort algorithm
  * @array: array to sort
  * @size: array size
- * @o_size: other array size
- * @o_array: other array pointer
+ * @osize: other array size
+ * @oarray: other array pointer
  * Return: always 0
  **/
 void _qsort(int *array, size_t size, int *oarray, size_t osize)

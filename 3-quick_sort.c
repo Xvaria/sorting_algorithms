@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * q_sort - sorts an array of integers in ascending order
+ * _qsort - sorts an array of integers in ascending order
  * using the Quick sort algorithm
  * @array: array to sort
  * @size: array size
